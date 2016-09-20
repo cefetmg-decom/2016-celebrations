@@ -67,9 +67,9 @@ Seu jogo ou aplicação será avaliado em relação a inovação, criatividade, 
   - Pré-avaliação dos organizadores
   - Divulgação do jogo ou da aplicação para incentivar curtidas e compartilhamentos
 - 09/10/2016 (dom) – Pré-avaliação do jogo pela comissão organizadora¹²
-- 14/10/2016 (qui) – Apresentação dos jogos ou aplicações
-- 14/10/2016 (qui) - Votação popular e julgamento
-- 14/10/2016  (qui) – Premiação do melhor jogos ou aplicação 
+- 14/10/2016 (sex) – Apresentação dos jogos ou aplicações
+- 14/10/2016 (sex) - Votação popular e julgamento
+- 14/10/2016  (sex) – Premiação do melhor jogos ou aplicação 
 
 ¹Jogos ou aplicações apresentando instabilidade (travamentos ou falhas impeditivas) no momento da pré-avaliação serão desqualificados
 
