@@ -57,7 +57,7 @@ Seu jogo ou aplicação será avaliado em relação a inovação, criatividade, 
   - Julgamento de especialistas (inovação, criatividade, aderência ao tema e esforço)
   - Alcance no Facebook – número de curtidas e compartilhamento (popularidade)
   - Voto popular – número de votos no dia apresentação, juntamente ao evento da comemoração
-    "_DECOM celebrations_ 2016"  - 13/Outubro/2016 (popularidade)
+    "_DECOM celebrations_ 2016"  - 14/Outubro/2016 (popularidade)
 
 ## CRONOGRAMA
 
@@ -67,13 +67,13 @@ Seu jogo ou aplicação será avaliado em relação a inovação, criatividade, 
   - Pré-avaliação dos organizadores
   - Divulgação do jogo ou da aplicação para incentivar curtidas e compartilhamentos
 - 09/10/2016 (dom) – Pré-avaliação do jogo pela comissão organizadora¹²
-- 13/10/2016 (qui) – Apresentação dos jogos ou aplicações
-- 13/10/2016 (qui) - Votação popular e julgamento
-- 13/10/2016  (qui) – Premiação do melhor jogos ou aplicação 
+- 14/10/2016 (qui) – Apresentação dos jogos ou aplicações
+- 14/10/2016 (qui) - Votação popular e julgamento
+- 14/10/2016  (qui) – Premiação do melhor jogos ou aplicação 
 
 ¹Jogos ou aplicações apresentando instabilidade (travamentos ou falhas impeditivas) no momento da pré-avaliação serão desqualificados
 
-²Após a entrega do dia 09/10/2016, o programa (jogo ou aplicação) pode ser evoluído para a apresentação no dia 13/10/2016
+²Após a entrega do dia 09/10/2016, o programa (jogo ou aplicação) pode ser evoluído para a apresentação no dia 14/10/2016
 
 
 Participe!
